@@ -1,9 +1,4 @@
 <plugin>
-<title>[COLORwhite][B]WORLD SPORTS CHANNELS[/COLOR][B]</title>
-<sportsdevil>http<sportsdevil>
-</plugin>
-
-<plugin>
 <title>[COLORwhite][B]ESPN HD[/COLOR][/B]</title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/espn-live-stream-watch-espn-sportscenter-online-free/</sublink></link>
@@ -11,7 +6,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ESPN2 HD[/COLOR][/B]</title>
 <link>
@@ -20,7 +14,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ESPN3[/COLOR][/B]</title>
 <link>
@@ -29,7 +22,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ESPN News[/COLOR][/B]</title>
 <link>
@@ -38,7 +30,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ESPN U[/COLOR][/B]</title>
 <link>
@@ -47,7 +38,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ESPN Brasil HD[/COLOR][/B]</title>
 <link>
@@ -56,7 +46,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Band Sports Brazil[/COLOR][/B]</title>
 <link>
@@ -65,7 +54,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]PFC Internacional[/COLOR][/B]</title>
 <link>
@@ -74,7 +62,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ESPN Deportes HD[/COLOR][/B]</title>
 <link>
@@ -83,7 +70,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]DirecTV Sports[/COLOR][/B]</title>
 <link>
@@ -92,7 +78,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]CDF Premium[/COLOR][/B]</title>
 <link>
@@ -101,7 +86,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Canal+ Sport FR[/COLOR][/B]</title>
 <link>
@@ -110,7 +94,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Movistar Deportes 1[/COLOR][/B]</title>
 <link>
@@ -119,7 +102,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Movistar Deportes 2[/COLOR][/B]</title>
 <link>
@@ -128,7 +110,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Movistar Futbol[/COLOR][/B]</title>
 <link>
@@ -137,7 +118,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Movistar Partidazo[/COLOR][/B]</title>
 <link>
@@ -146,7 +126,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Gol TV ES[/COLOR][/B]</title>
 <link>
@@ -155,7 +134,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Movistar Golf[/COLOR][/B]</title>
 <link>
@@ -164,7 +142,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sport TV1 HD[/COLOR][/B]</title>
 <link>
@@ -173,7 +150,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sport TV2 HD[/COLOR][/B]</title>
 <link>
@@ -182,7 +158,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sport TV3 HD[/COLOR][/B]</title>
 <link>
@@ -191,7 +166,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sport TV4 HD[/COLOR][/B]</title>
 <link>
@@ -200,7 +174,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sport TV5 HD[/COLOR][/B]</title>
 <link>
@@ -209,7 +182,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]SporTV1 Brazil[/COLOR][/B]</title>
 <link>
@@ -218,7 +190,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]SporTV 2 Brazil[/COLOR][/B]</title>
 <link>
@@ -227,7 +198,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sport 1 Germany[/COLOR][/B]</title>
 <link>
@@ -236,7 +206,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sport 1 SELECT HD[/COLOR][/B]</title>
 <link>
@@ -245,7 +214,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Gol TV[/COLOR][/B]</title>
 <link>
@@ -254,7 +222,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Chelsea TV[/COLOR][/B]</title>
 <link>
@@ -263,7 +230,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]MUTV[/COLOR][/B]</title>
 <link>
@@ -272,7 +238,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]LFC TV[/COLOR][/B]</title>
 <link>
@@ -281,7 +246,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Tennis Channel[/COLOR][/B]</title>
 <link>
@@ -290,7 +254,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Golf Channel[/COLOR][/B]</title>
 <link>
@@ -299,7 +262,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]NFL Network[/COLOR][/B]</title>
 <link>
@@ -308,7 +270,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]NFL RedZone[/COLOR][/B]</title>
 <link>
@@ -317,7 +278,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]NBA Channel[/COLOR][/B]</title>
 <link>
@@ -326,7 +286,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]MLB Network[/COLOR][/B]</title>
 <link>
@@ -335,7 +294,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]NHL Network[/COLOR][/B]</title>
 <link>
@@ -344,7 +302,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Fox Soccer Plus[/COLOR][/B]</title>
 <link>
@@ -353,7 +310,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Fox Sports[/COLOR][/B]</title>
 <link>
@@ -362,7 +318,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Fox Deports[/COLOR][/B]</title>
 <link>
@@ -371,7 +326,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]TYC Sports[/COLOR][/B]</title>
 <link>
@@ -380,7 +334,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Sports News Radio[/COLOR][/B]</title>
 <link>
@@ -389,7 +342,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Bundesliga HD 1[/COLOR][/B]</title>
 <link>
@@ -398,7 +350,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Bundesliga HD 2[/COLOR][/B]</title>
 <link>
@@ -407,7 +358,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Bundesliga HD 3[/COLOR][/B]</title>
 <link>
@@ -416,7 +366,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Bundesliga HD 4[/COLOR][/B]</title>
 <link>
@@ -425,7 +374,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Bundesliga HD 5[/COLOR][/B]</title>
 <link>
@@ -434,7 +382,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Sport News DE[/COLOR][/B]</title>
 <link>
@@ -443,7 +390,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Sports News[/COLOR][/B]</title>
 <link>
@@ -452,7 +398,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Sports Mix[/COLOR][/B]</title>
 <link>
@@ -461,7 +406,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Sports Main Event HD (720 + 1080p)[/COLOR][/B]</title>
 <link>
@@ -470,7 +414,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Sports 2 Full HD (720 + 1080p)[/COLOR][/B]</title>
 <link>
@@ -479,7 +422,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Sports 3 Full HD (720 + 1080p)[/COLOR][/B]</title>
 <link>
@@ -488,7 +430,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Sports Arena[/COLOR][/B]</title>
 <link>
@@ -497,7 +438,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Sports 1 HD[/COLOR][/B]</title>
 <link>
@@ -506,7 +446,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Sports 2 HD[/COLOR][/B]</title>
 <link>
@@ -515,7 +454,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Sports 3 HD[/COLOR][/B]</title>
 <link>
@@ -524,7 +462,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Sports 4 HD[/COLOR][/B]</title>
 <link>
@@ -533,7 +470,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Sports 5 HD[/COLOR][/B]</title>
 <link>
@@ -542,7 +478,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sky Sports F1 HD[/COLOR][/B]</title>
 <link>
@@ -551,7 +486,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Eir Sport 1[/COLOR][/B]</title>
 <link>
@@ -560,7 +494,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Euro Sport HD[/COLOR][/B]</title>
 <link>
@@ -569,7 +502,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Euro Sport 2 HD[/COLOR][/B]</title>
 <link>
@@ -578,7 +510,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BT Sport ESPN[/COLOR][/B]</title>
 <link>
@@ -587,7 +518,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BT Sport ESPN Full HD (720 + 1080p)[/COLOR][/B]</title>
 <link>
@@ -596,7 +526,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BT Sport 1 Full HD (720 + 1080p)[/COLOR][/B]</title>
 <link>
@@ -605,7 +534,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BT Sport 2 Full HD (720 + 1080p)[/COLOR][/B]</title>
 <link>
@@ -614,7 +542,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BT Sport 3 Full HD (720 + 1080p)[/COLOR][/B]</title>
 <link>
@@ -623,7 +550,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BT Sport 1 HD[/COLOR][/B]</title>
 <link>
@@ -632,7 +558,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BT Sport 2 HD[/COLOR][/B]</title>
 <link>
@@ -641,7 +566,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BT Sport 3 HD[/COLOR][/B]</title>
 <link>
@@ -650,7 +574,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Espn America[/COLOR][/B]</title>
 <link>
@@ -659,7 +582,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]beIN Sports LaLiga[/COLOR][/B]</title>
 <link>
@@ -668,7 +590,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]beIN Sports En Espa\xc3\xb1ol[/COLOR][/B]</title>
 <link>
@@ -677,7 +598,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 1 FR[/COLOR][/B]</title>
 <link>
@@ -686,7 +606,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 2 FR[/COLOR][/B]</title>
 <link>
@@ -695,7 +614,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 3 FR[/COLOR][/B]</title>
 <link>
@@ -704,7 +622,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]beIN Sport USA[/COLOR][/B]</title>
 <link>
@@ -713,7 +630,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 1 HD[/COLOR][/B]</title>
 <link>
@@ -722,7 +638,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 2 HD[/COLOR][/B]</title>
 <link>
@@ -731,7 +646,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 3 HD[/COLOR][/B]</title>
 <link>
@@ -740,7 +654,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 4 HD[/COLOR][/B]</title>
 <link>
@@ -749,7 +662,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 5 HD[/COLOR][/B]</title>
 <link>
@@ -758,7 +670,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 6 HD[/COLOR][/B]</title>
 <link>
@@ -767,7 +678,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 7 HD[/COLOR][/B]</title>
 <link>
@@ -776,7 +686,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 8 HD[/COLOR][/B]</title>
 <link>
@@ -785,7 +694,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 9 HD[/COLOR][/B]</title>
 <link>
@@ -794,7 +702,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 10 HD[/COLOR][/B]</title>
 <link>
@@ -803,7 +710,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 11 HD[/COLOR][/B]</title>
 <link>
@@ -812,7 +718,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 12 HD[/COLOR][/B]</title>
 <link>
@@ -821,7 +726,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 13 HD[/COLOR][/B]</title>
 <link>
@@ -830,7 +734,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 14 HD[/COLOR][/B]</title>
 <link>
@@ -839,7 +742,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bein Sports 15 HD[/COLOR][/B]</title>
 <link>
@@ -848,7 +750,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]AL Dawri Sports[/COLOR][/B]</title>
 <link>
@@ -857,7 +758,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sportsnet[/COLOR][/B]</title>
 <link>
@@ -866,7 +766,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sportsnet One[/COLOR][/B]</title>
 <link>
@@ -875,7 +774,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sportsnet Ontario[/COLOR][/B]</title>
 <link>
@@ -884,7 +782,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sportsnet 360[/COLOR][/B]</title>
 <link>
@@ -893,7 +790,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]WWE Network[/COLOR][/B]</title>
 <link>
@@ -902,7 +798,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Motors Tv HD[/COLOR][/B]</title>
 <link>
@@ -911,7 +806,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BoxNation HD[/COLOR][/B]</title>
 <link>
@@ -920,7 +814,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]WWE Channel[/COLOR][/B]</title>
 <link>
@@ -929,7 +822,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]WWE Raw[/COLOR][/B]</title>
 <link>
@@ -938,7 +830,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Racing UK[/COLOR][/B]</title>
 <link>
@@ -947,7 +838,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]At the Races[/COLOR][/B]</title>
 <link>
@@ -956,7 +846,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Fox Sports 1 USA[/COLOR][/B]</title>
 <link>
@@ -965,7 +854,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Fox Sports 2 USA[/COLOR][/B]</title>
 <link>
@@ -974,7 +862,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]TSN[/COLOR][/B]</title>
 <link>
@@ -983,7 +870,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]TSN 2[/COLOR][/B]</title>
 <link>
@@ -992,7 +878,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]TSN 3[/COLOR][/B]</title>
 <link>
@@ -1001,7 +886,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]TSN 4[/COLOR][/B]</title>
 <link>
@@ -1010,7 +894,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]TSN 5[/COLOR][/B]</title>
 <link>
@@ -1019,7 +902,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]NBC Sport Network[/COLOR][/B]</title>
 <link>
@@ -1028,7 +910,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Premier Sports[/COLOR][/B]</title>
 <link>
@@ -1037,7 +918,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Dubai Sports 3[/COLOR][/B]</title>
 <link>
@@ -1046,7 +926,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]OSN Sports Cricket HD[/COLOR][/B]</title>
 <link>
@@ -1055,7 +934,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]CBS Sports Network[/COLOR][/B]</title>
 <link>
@@ -1064,7 +942,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Star Sports 1 HD[/COLOR][/B]</title>
 <link>
@@ -1073,7 +950,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Star Sports 3 HD[/COLOR][/B]</title>
 <link>
@@ -1082,7 +958,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]PTV Sports[/COLOR][/B]</title>
 <link>
@@ -1091,7 +966,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sport Klub 1[/COLOR][/B]</title>
 <link>
@@ -1100,7 +974,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sport Klub 2[/COLOR][/B]</title>
 <link>
@@ -1109,7 +982,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sport Klub 3[/COLOR][/B]</title>
 <link>
@@ -1118,7 +990,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sport Klub 4[/COLOR][/B]</title>
 <link>
@@ -1127,7 +998,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sport Klub 5[/COLOR][/B]</title>
 <link>
@@ -1136,7 +1006,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Sport Klub 6[/COLOR][/B]</title>
 <link>
@@ -1145,7 +1014,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Arena Sport 1[/COLOR][/B]</title>
 <link>
@@ -1154,7 +1022,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Arena Sport 2[/COLOR][/B]</title>
 <link>
@@ -1163,7 +1030,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Arena Sport 3[/COLOR][/B]</title>
 <link>
@@ -1172,7 +1038,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Arena Sport 4[/COLOR][/B]</title>
 <link>
@@ -1181,7 +1046,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Arena Sport 5[/COLOR][/B]</title>
 <link>
@@ -1190,7 +1054,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BBC News[/COLOR][/B]</title>
 <link>
@@ -1199,7 +1062,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BBC One[/COLOR][/B]</title>
 <link>
@@ -1208,7 +1070,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BBC Two[/COLOR][/B]</title>
 <link>
@@ -1217,7 +1078,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BBC Three[/COLOR][/B]</title>
 <link>
@@ -1226,7 +1086,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BBC Four[/COLOR][/B]</title>
 <link>
@@ -1235,7 +1094,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ITV 1[/COLOR][/B]</title>
 <link>
@@ -1244,7 +1102,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ITV 2 HD[/COLOR][/B]</title>
 <link>
@@ -1253,7 +1110,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ITV 2 + 1 HD[/COLOR][/B]</title>
 <link>
@@ -1262,7 +1118,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ITV 3 HD[/COLOR][/B]</title>
 <link>
@@ -1271,7 +1126,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ITV 3+1 HD[/COLOR][/B]</title>
 <link>
@@ -1280,7 +1134,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ITV 4 HD[/COLOR][/B]</title>
 <link>
@@ -1289,7 +1142,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ITV 4+1 HD[/COLOR][/B]</title>
 <link>
@@ -1298,7 +1150,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Channel 4[/COLOR][/B]</title>
 <link>
@@ -1307,7 +1158,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Channel 5[/COLOR][/B]</title>
 <link>
@@ -1316,7 +1166,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Channel E4[/COLOR][/B]</title>
 <link>
@@ -1325,7 +1174,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]4Music TV[/COLOR][/B]</title>
 <link>
@@ -1334,7 +1182,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]MTV UK HD[/COLOR][/B]</title>
 <link>
@@ -1343,7 +1190,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Film4[/COLOR][/B]</title>
 <link>
@@ -1352,7 +1198,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Viva Channel[/COLOR][/B]</title>
 <link>
@@ -1361,7 +1206,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Dave Channel[/COLOR][/B]</title>
 <link>
@@ -1370,7 +1214,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Pick TV[/COLOR][/B]</title>
 <link>
@@ -1379,7 +1222,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Really TV[/COLOR][/B]</title>
 <link>
@@ -1388,7 +1230,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Friends[/COLOR][/B]</title>
 <link>
@@ -1397,7 +1238,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Seinfeld[/COLOR][/B]</title>
 <link>
@@ -1406,7 +1246,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]King Of Queens[/COLOR][/B]</title>
 <link>
@@ -1415,7 +1254,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Two &amp; A Half Men[/COLOR][/B]</title>
 <link>
@@ -1424,7 +1262,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]The Office[/COLOR][/B]</title>
 <link>
@@ -1433,7 +1270,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]The Big Bang Theory[/COLOR][/B]</title>
 <link>
@@ -1442,7 +1278,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]South Park[/COLOR][/B]</title>
 <link>
@@ -1451,7 +1286,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Walking Dead[/COLOR][/B]</title>
 <link>
@@ -1460,7 +1294,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Curb Your Enthusiasm[/COLOR][/B]</title>
 <link>
@@ -1469,7 +1302,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]American Dad[/COLOR][/B]</title>
 <link>
@@ -1478,7 +1310,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Empire[/COLOR][/B]</title>
 <link>
@@ -1487,7 +1318,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]30 Rock[/COLOR][/B]</title>
 <link>
@@ -1496,7 +1326,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Workaholics[/COLOR][/B]</title>
 <link>
@@ -1505,7 +1334,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]FOX Channel[/COLOR][/B]</title>
 <link>
@@ -1514,7 +1342,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]FOX 2[/COLOR][/B]</title>
 <link>
@@ -1523,7 +1350,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ABC Channel[/COLOR][/B]</title>
 <link>
@@ -1532,7 +1358,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Abc27 Chanel[/COLOR][/B]</title>
 <link>
@@ -1541,7 +1366,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]A&amp;E Channel[/COLOR][/B]</title>
 <link>
@@ -1550,7 +1374,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]HBO Channel[/COLOR][/B]</title>
 <link>
@@ -1559,7 +1382,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]AXN Channel[/COLOR][/B]</title>
 <link>
@@ -1568,7 +1390,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Star Movies[/COLOR][/B]</title>
 <link>
@@ -1577,7 +1398,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]BET Channel[/COLOR][/B]</title>
 <link>
@@ -1586,7 +1406,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]MTV Channel[/COLOR][/B]</title>
 <link>
@@ -1595,7 +1414,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]FX Channel[/COLOR][/B]</title>
 <link>
@@ -1604,7 +1422,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]E! Channel[/COLOR][/B]</title>
 <link>
@@ -1613,7 +1430,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Tele 5 Channel[/COLOR][/B]</title>
 <link>
@@ -1622,7 +1438,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]TBS Channel[/COLOR][/B]</title>
 <link>
@@ -1631,7 +1446,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]TNT Channel[/COLOR][/B]</title>
 <link>
@@ -1640,7 +1454,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]The CW Channel[/COLOR][/B]</title>
 <link>
@@ -1649,7 +1462,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]SYFY Channel[/COLOR][/B]</title>
 <link>
@@ -1658,7 +1470,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]CBS Channel[/COLOR][/B]</title>
 <link>
@@ -1667,7 +1478,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]CBS 21 Channel[/COLOR][/B]</title>
 <link>
@@ -1676,7 +1486,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]USA Network[/COLOR][/B]</title>
 <link>
@@ -1685,7 +1494,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]NBC Channel[/COLOR][/B]</title>
 <link>
@@ -1694,7 +1502,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]NBC NY Channel[/COLOR][/B]</title>
 <link>
@@ -1703,7 +1510,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Bravo Channel[/COLOR][/B]</title>
 <link>
@@ -1712,7 +1518,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Lifetime Channel[/COLOR][/B]</title>
 <link>
@@ -1721,7 +1526,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Lifetime Movie Network[/COLOR][/B]</title>
 <link>
@@ -1731,7 +1535,6 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-
 <title>[COLORwhite][B]DIY Network[/COLOR][/B]</title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/watch-diy-do-it-yourself-network-live/</sublink></link><referer></referer>
@@ -1739,7 +1542,6 @@
 <fanart></fanart>
 </plugin>
 <plugin>
-
 <title>[COLORwhite][B]Spike Channel[/COLOR][/B]</title>
 <link>
 <sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://nowwatchtvlive.cc/watch-spike-tv-online-usa-channel-free/</sublink></link>
@@ -1755,7 +1557,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Travel Channel[/COLOR][/B]</title>
 <link>
@@ -1764,7 +1565,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Trutv Channel[/COLOR][/B]</title>
 <link>
@@ -1773,7 +1573,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]ION Channel[/COLOR][/B]</title>
 <link>
@@ -1782,7 +1581,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]TBN Channel[/COLOR][/B]</title>
 <link>
@@ -1791,7 +1589,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]PBS Channel[/COLOR][/B]</title>
 <link>
@@ -1800,7 +1597,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]TLC Channel[/COLOR][/B]</title>
 <link>
@@ -1809,7 +1605,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Military Channel[/COLOR][/B]</title>
 <link>
@@ -1818,7 +1613,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Univision Tv[/COLOR][/B]</title>
 <link>
@@ -1827,7 +1621,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Telemundo En Vivo[/COLOR][/B]</title>
 <link>
@@ -1836,7 +1629,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Galavision En Vivo[/COLOR][/B]</title>
 <link>
@@ -1845,7 +1637,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Telehit En Vivo[/COLOR][/B]</title>
 <link>
@@ -1854,7 +1645,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]AMC Tv Channel[/COLOR][/B]</title>
 <link>
@@ -1863,7 +1653,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Showtime Channel[/COLOR][/B]</title>
 <link>
@@ -1872,7 +1661,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Starz Channel[/COLOR][/B]</title>
 <link>
@@ -1881,7 +1669,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]CMT Channel[/COLOR][/B]</title>
 <link>
@@ -1890,7 +1677,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Fox Movies[/COLOR][/B]</title>
 <link>
@@ -1899,7 +1685,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Hallmark Channel[/COLOR][/B]</title>
 <link>
@@ -1908,7 +1693,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]HGTV[/COLOR][/B]</title>
 <link>
@@ -1917,7 +1701,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Antena 3 Channel[/COLOR][/B]</title>
 <link>
@@ -1926,7 +1709,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]RCN Tv Vivo[/COLOR][/B]</title>
 <link>
@@ -1935,7 +1717,6 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
-
 <plugin>
 <title>[COLORwhite][B]Azteca 13 Tv Vivo[/COLOR][/B]</title>
 <link>
@@ -1944,3 +1725,4 @@
 <thumbnail></thumbnail>
 <fanart></fanart>
 </plugin>
+
