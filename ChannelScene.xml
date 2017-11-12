@@ -455,7 +455,7 @@
 </plugin>
 <plugin>
 <title>Sky Sports Football</title>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com//stream.php?id=sky-sports-football</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com/stream.php?id=sky-sports-football</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -497,7 +497,7 @@
 </plugin>
 <plugin>
 <title>Sky Sports Golf</title>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com//stream.php?id=sky-sports-golf</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com/stream.php?id=sky-sports-golf</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -511,7 +511,7 @@
 </plugin>
 <plugin>
 <title>Sportsnet One</title>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com//stream.php?id=sportsnet-one</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com/stream.php?id=sportsnet-one</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
@@ -560,7 +560,7 @@
 </plugin>
 <plugin>
 <title>Liverpool FC TV</title>
-<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com//stream.php?id=lfc-tv</sublink></link>
+<sublink>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com/stream.php?id=lfc-tv</sublink></link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
