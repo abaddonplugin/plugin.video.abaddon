@@ -1,24 +1,24 @@
-<plugin>
-<title>Espn Deportes! en vivo</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com//stream.php?id=espn-deportes</link>
+<item>
+<title>MLB NETWORK TEST</title>
+<link>http://mlblive-akc.mlb.com/ls01/mlbam/mlb_network/NETWORK_LINEAR_1/master_wired.m3u8&token=aed888c49ae8b4c4d84c4dbfe4db06a4b4b07e60a87413d58c65d40911d7741e&ev=mlb&eid=1&feed=tv</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>Channel 7 AUStralia</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com//stream.php?id=channel-7-australia</link>
+</item>
+<item>
+<title>NFL NETWORK TEST</title>
+<link>http://nlds21.cdnak.neulion.com/nlds/nfl/nfltv/as/live/nfltv_hd_ipad.m3u8&token=89cdbff14304dbcf51f1336d13cac09201aa0d60720ca1b35c469c70a2f17c5b&ev=nfl&eid=1&feed=tv</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
-<plugin>
-<title>spike TV usa</title>
-<link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com//stream.php?id=spike-tv-usa</link>
+</item>
+<item>
+<title>sNBA NETWORK TEST</title>
+<link>http://nlds16.cdnak.neulion.com/nlds/nba/nba247/as/live/ipad.m3u8&token=04ad31c005ab2dba07e7fdd5916175ac13fd4e065f1dd0c4b773ed84726141bf&ev=nba&eid=1&feed=tv</link>
 <referer></referer>
 <thumbnail></thumbnail>
 <fanart></fanart>
-</plugin>
+</item>
 <plugin>
 <title>Benfica TV ver B</title>
 <link>plugin://plugin.video.SportsDevil/?mode=1&amp;item=catcher%3dstreams%26url=http://ustreamyx.com//stream.php?id=benfica-tv-alternative-2</link>
